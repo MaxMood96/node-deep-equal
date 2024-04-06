@@ -50,7 +50,7 @@
     "@ljharb/eslint-config": "^19.1.0",
     "aud": "^1.1.5",
     "auto-changelog": "^2.3.0",
-    "eslint": "^8.4.0",
+    "eslint": "^9.0.0",
     "has-symbols": "^1.0.2",
     "has-typed-arrays": "^1.0.1",
     "nyc": "^10.3.2",
